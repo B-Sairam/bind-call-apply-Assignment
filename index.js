@@ -20,4 +20,4 @@ user.getName.call(user2,'super_Hero');
 
 //===============apply() method====================
 
-user.getName.apply(user2,['super_Hero'])
+user.getName.apply(user2,['super_Hero']);
